@@ -45,14 +45,14 @@
   For me, it was an amazing project filled with learning experiences that have undoubtedly made me a far better programmer than I was before it, and I hope I get to work in other project that make me feel the same way.
 </p>
 ## Meet the A team 😎
-## [Alejandro](https://github.com/alejodelosrios) - Frontend
-## [Francisco](https://github.com/Ridegras) - Frontend
-## [Francisco](https://github.com/Franh01) - Frontend
-## [Bryan](https://github.com/bryan-delacruz) - Frontend
-## [Federico](https://github.com/federicofern) - Frontend
-## [Carolina](https://github.com/Carolinaortiz95) - Backend
-## [Celeste](https://github.com/celesmedina)
-## Myself - Backend
+### [Alejandro](https://github.com/alejodelosrios) - Frontend
+### [Francisco](https://github.com/Ridegras) - Frontend
+### [Francisco](https://github.com/Franh01) - Frontend
+### [Bryan](https://github.com/bryan-delacruz) - Frontend
+### [Federico](https://github.com/federicofern) - Frontend
+### [Carolina](https://github.com/Carolinaortiz95) - Backend
+### [Celeste](https://github.com/celesmedina) - Backend
+### Myself - Backend
 
 <br />
 
