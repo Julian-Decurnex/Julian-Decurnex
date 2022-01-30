@@ -8,12 +8,12 @@
   <code><img width="8%" height="60px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="8%" height="60px" src="https://github.com/Julian-Decurnex/Julian-Decurnex/blob/main/logos/css.png"></code>
   <code><img width="8%" height="60px" src="https://github.com/Julian-Decurnex/Julian-Decurnex/blob/main/logos/javascript.svg"></code>
+  <code><img width="8%" height="60px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <code><img width="8%" height="60px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="8%" height="60px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="8%" height="60px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="8%" height="60px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="8%" height="60px" src="https://github.com/Julian-Decurnex/Julian-Decurnex/blob/main/logos/expressjs.svg"></code>
-  <code><img width="8%" height="60px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <br />
   <code><img width="8%" height="60px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="8%" height="60px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
