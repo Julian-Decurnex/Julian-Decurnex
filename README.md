@@ -26,7 +26,11 @@
   <code><img width="8%" height="60px" src="https://github.com/Julian-Decurnex/Julian-Decurnex/blob/main/logos/scrum.png"></code>
 </p>
 
+<br />
+
 # 💼 My proyects:
+
+<br />
 
 ## ✔️ Transforma
 <p margin-left="30px">
@@ -44,6 +48,9 @@
 <p>
   For me, it was an amazing project filled with learning experiences that have undoubtedly made me a far better programmer than I was before it, and I hope I get to work in other project that make me feel the same way.
 </p>
+
+<br />
+
 ## Meet the A team 😎
 ### [Alejandro](https://github.com/alejodelosrios) - Frontend
 ### [Francisco](https://github.com/Ridegras) - Frontend
