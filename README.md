@@ -40,9 +40,8 @@
   Together with my partners, we wanted to create something original, something that made a difference. Henry taught us well, because I believe this project embodies their spirit and I take great proud in saying that up until now, January 30th of 2022, this is by far the best project I've worked on from a technical standpoint. Filled with challenges and learning, and has certainly helped me grow exponentially as a programmer.
 </p>
 <p>
-  Soon I'll add images so you can preview the project but you can already visit it's website:
+  Soon I'll add images so you can preview the project but you can already visit it's website at **https://transforma-client-rbjge.ondigitalocean.app/**
 </p>
-## [Transforma](https://transforma-client-rbjge.ondigitalocean.app/)
 <p>
   For this project, I was part of the backend team and worked alongside Carolina and Celeste to create probably the most ambitious backend we'd done so far, we did our very best to provide the frontend team with the best api and documentation we could in order to make their job easier. Together with Alejandro we worked on deploying the application and connecting front and back, checking that every single route delivered the best possible package for their team to work with, trying to keep unnecessary information to a minimum.
 </p>
