@@ -42,6 +42,7 @@
 <br />
 ### Soon I'll add images so you can preview the project but you can already visit it's [website](https://transforma-client-rbjge.ondigitalocean.app/)
 <br />
+<br />
 <p>
   For this project, I was part of the backend team and worked alongside Carolina and Celeste to create probably the most ambitious backend we'd done so far, we did our very best to provide the frontend team with the best api and documentation we could in order to make their job easier. Together with Alejandro we worked on deploying the application and connecting front and back, checking that every single route delivered the best possible package for their team to work with, trying to keep unnecessary information to a minimum.
 </p>
