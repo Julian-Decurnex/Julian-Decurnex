@@ -33,7 +33,7 @@
 <br />
 
 ## ✔️ Transforma
-### Images coming soon but you can view the [website](https://transforma-client-rbjge.ondigitalocean.app/)
+## Images coming soon but you can view the [website](https://transforma-client-rbjge.ondigitalocean.app/)
 <p margin-left="30px">
   This was my final group project while studying at Henry.
 </p>
