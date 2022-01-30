@@ -52,14 +52,14 @@
 <br />
 
 ## Meet the A team 😎
-### [Alejandro](https://github.com/alejodelosrios) - Frontend
-### [Francisco](https://github.com/Ridegras) - Frontend
-### [Francisco](https://github.com/Franh01) - Frontend
-### [Bryan](https://github.com/bryan-delacruz) - Frontend
-### [Federico](https://github.com/federicofern) - Frontend
-### [Carolina](https://github.com/Carolinaortiz95) - Backend
-### [Celeste](https://github.com/celesmedina) - Backend
-### Myself - Backend
+### Frontend - [Alejandro](https://github.com/alejodelosrios)
+### Frontend - [Francisco](https://github.com/Ridegras)
+### Frontend - [Francisco](https://github.com/Franh01)
+### Frontend - [Bryan](https://github.com/bryan-delacruz)
+### Frontend - [Federico](https://github.com/federicofern)
+### Backend - [Carolina](https://github.com/Carolinaortiz95)
+### Backend - [Celeste](https://github.com/celesmedina)
+### Backend - Myself
 
 <br />
 
