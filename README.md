@@ -51,7 +51,7 @@
 ## [Bryan](https://github.com/bryan-delacruz) - Frontend
 ## [Federico](https://github.com/federicofern) - Frontend
 ## [Carolina](https://github.com/Carolinaortiz95) - Backend
-## [Celeste](https://github.com/celesmedina) - Backend
+## [Celeste](https://github.com/celesmedina)
 ## Myself - Backend
 
 <br />
