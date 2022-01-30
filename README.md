@@ -39,11 +39,22 @@
   Soon I'll add images so you can preview the project but you can already visit it's [website](https://transforma-client-rbjge.ondigitalocean.app/)
 </p>
 <p>
-  For this project, I was part of the backend team and worked alongside [Carolina](https://github.com/Carolinaortiz95) and [Celeste](https://github.com/celesmedina) to create probably the most ambitious backend we'd done so far, we did our very best to provide the frontend team with the best api and documentation we could in order to make their job easier. Together with [Alejandro](https://github.com/alejodelosrios) we worked on deploying the application and connecting front and back, checking that every single route delivered the best possible package for their team to work with, trying to keep unnecessary information to a minimum.
+  For this project, I was part of the backend team and worked alongside Carolina and Celeste to create probably the most ambitious backend we'd done so far, we did our very best to provide the frontend team with the best api and documentation we could in order to make their job easier. Together with Alejandro we worked on deploying the application and connecting front and back, checking that every single route delivered the best possible package for their team to work with, trying to keep unnecessary information to a minimum.
 </p>
 <p>
   For me, it was an amazing project filled with learning experiences that have undoubtedly made me a far better programmer than I was before it, and I hope I get to work in other project that make me feel the same way.
 </p>
+## Meet the A team 😎
+### [Alejandro](https://github.com/alejodelosrios) - Frontend
+### [Francisco](https://github.com/Ridegras) - Frontend
+### [Francisco](https://github.com/Franh01) - Frontend
+### [Bryan](https://github.com/bryan-delacruz) - Frontend
+### [Federico](https://github.com/federicofern) - Frontend
+### [Carolina](https://github.com/Carolinaortiz95) - Backend
+### [Celeste](https://github.com/celesmedina) - Backend
+### Myself - Backend
+
+<br />
 
 ## ✔️ Countries API
 <p margin-left="30px">
